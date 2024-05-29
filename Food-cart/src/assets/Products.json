@@ -1,0 +1,295 @@
+[
+    {
+        "id":"89",
+        "name":"Farmer's pick",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"https://www.app.tutorjoes.in/img/food/89.jpg",
+        "latest":"Np"
+    },
+    
+        {
+            "id": "90",
+            "name": "Pepperoni Feast",
+            "amt": "349",
+            "shop": "Domino's",
+            "ftype": "Pizza",
+            "pic": "https://www.app.tutorjoes.in/img/food/90.jpg",
+            "latest": "Np"
+        },
+        {
+            "id": "91",
+            "name": "Chicken Tikka",
+            "amt": "399",
+            "shop": "Papa John's",
+            "ftype": "Pizza",
+            "pic": "https://www.app.tutorjoes.in/img/food/91.jpg",
+            "latest": "Np"
+        },
+        {
+            "id": "92",
+            "name": "Veggie Delight",
+            "amt": "279",
+            "shop": "Pizza Hut",
+            "ftype": "Pizza",
+            "pic": "https://www.app.tutorjoes.in/img/food/92.jpg",
+            "latest": "Np"
+        },
+        {
+            "id": "93",
+            "name": " Chicken Margherita",
+            "amt": "249",
+            "shop": "Domino's",
+            "ftype": "Pizza",
+            "pic": "https://www.app.tutorjoes.in/img/food/93.jpg",
+            "latest": "Np"
+        },
+        {
+            "id": "94",
+            "name": "Lasagna",
+            "amt": "419",
+            "shop": "Papa John's",
+            "ftype": "Pizza",
+            "pic": "https://www.app.tutorjoes.in/img/food/94.jpg",
+            "latest": "Np"
+        },
+        {
+            "id": "95",
+            "name": "Egg curry",
+            "amt": "359",
+            "shop": "Annapoorna",
+            "ftype": "Indian",
+            "pic": "https://www.app.tutorjoes.in/img/food/95.jpg",
+            "latest": "Np"
+        },
+        {
+            "id": "96",
+            "name": "Kalakki",
+            "amt": "429",
+            "shop": "Annapoorna",
+            "ftype": "Indian",
+            "pic": "https://www.app.tutorjoes.in/img/food/96.jpg",
+            "latest": "Np"
+        },
+        {
+            "id": "97",
+            "name": "Dosa",
+            "amt": "489",
+            "shop": "Sabaresh",
+            "ftype": "Indian breakfast",
+            "pic": "https://www.app.tutorjoes.in/img/food/97.jpg",
+            "latest": "Np"
+        },
+        {
+            "id": "98",
+            "name": "Dosa",
+            "amt": "399",
+            "shop": "Gowri",
+            "ftype": "Indian breakfast",
+            "pic": "https://www.app.tutorjoes.in/img/food/98.jpg",
+            "latest": "Np"
+        },
+        {
+            "id": "99",
+            "name": "Onion Dosa",
+            "amt": "199",
+            "shop": "Gowri",
+            "ftype": "Indian breakfast",
+            "pic": "https://www.app.tutorjoes.in/img/food/99.jpg",
+            "latest": "Np"
+        },
+            {
+                "id": "100",
+                "name": "Farmer's Pick",
+                "amt": "299",
+                "shop": "Pizza Hut",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "101",
+                "name": "Pepperoni Feast",
+                "amt": "349",
+                "shop": "Domino's",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/90.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "102",
+                "name": "Chicken Tikka",
+                "amt": "399",
+                "shop": "Papa John's",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/91.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "103",
+                "name": "Veggie Delight",
+                "amt": "279",
+                "shop": "Pizza Hut",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/92.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "104",
+                "name": "Margherita",
+                "amt": "249",
+                "shop": "Domino's",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/93.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "105",
+                "name": "BBQ Chicken",
+                "amt": "419",
+                "shop": "Papa John's",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/94.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "106",
+                "name": "Egg poriyal",
+                "amt": "359",
+                "shop": "vasantha bavan",
+                "ftype": "Indian",
+                "pic": "https://www.app.tutorjoes.in/img/food/95.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "107",
+                "name": "Supreme",
+                "amt": "429",
+                "shop": "Domino's",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/96.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "108",
+                "name": "Meat Lovers",
+                "amt": "489",
+                "shop": "Papa John's",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/97.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "109",
+                "name": "Four Cheese",
+                "amt": "399",
+                "shop": "Pizza Hut",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/98.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "110",
+                "name": "Veggie Supreme",
+                "amt": "349",
+                "shop": "Domino's",
+                "ftype": "Pizza",
+                "pic": "https://www.app.tutorjoes.in/img/food/99.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "111",
+                "name": "Butter Chicken",
+                "amt": "499",
+                "shop": "Indian Express",
+                "ftype": "Indian",
+                "pic": "https://www.app.tutorjoes.in/img/food/100.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "112",
+                "name": "Paneer Tikka",
+                "amt": "399",
+                "shop": "Indian Express",
+                "ftype": "Indian",
+                "pic": "https://www.app.tutorjoes.in/img/food/101.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "113",
+                "name": "Sushi Platter",
+                "amt": "599",
+                "shop": "Sushi World",
+                "ftype": "Japanese",
+                "pic": "https://www.app.tutorjoes.in/img/food/102.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "114",
+                "name": "Ramen",
+                "amt": "299",
+                "shop": "Ramen House",
+                "ftype": "Japanese",
+                "pic": "https://www.app.tutorjoes.in/img/food/103.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "115",
+                "name": "Tacos",
+                "amt": "199",
+                "shop": "Mexicana",
+                "ftype": "Mexican",
+                "pic": "https://www.app.tutorjoes.in/img/food/104.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "116",
+                "name": "Burrito Bowl",
+                "amt": "299",
+                "shop": "Mexicana",
+                "ftype": "Mexican",
+                "pic": "https://www.app.tutorjoes.in/img/food/105.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "117",
+                "name": "Caesar Salad",
+                "amt": "199",
+                "shop": "Healthy Bites",
+                "ftype": "Salad",
+                "pic": "https://www.app.tutorjoes.in/img/food/106.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "118",
+                "name": "Greek Salad",
+                "amt": "219",
+                "shop": "Healthy Bites",
+                "ftype": "Salad",
+                "pic": "https://www.app.tutorjoes.in/img/food/107.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "119",
+                "name": "Cheeseburger",
+                "amt": "249",
+                "shop": "Burger King",
+                "ftype": "Burger",
+                "pic": "https://www.app.tutorjoes.in/img/food/108.jpg",
+                "latest": "Np"
+            },
+            {
+                "id": "120",
+                "name": "Veggie Burger",
+                "amt": "229",
+                "shop": "Burger King",
+                "ftype": "Burger",
+                "pic": "https://www.app.tutorjoes.in/img/food/109.jpg",
+                "latest": "Np"
+            }
+        
+        
+    
+    
+]
